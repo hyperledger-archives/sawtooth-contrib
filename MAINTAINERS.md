@@ -4,7 +4,6 @@
 =======
 | Name | GitHub | RocketChat |
 | --- | --- | --- |
-| Adam Ludvik | aludvik | adamludvik |
 | Andi Gunderson | agunde406 | agunde |
 | Boyd Johnson | boydjohnson | boydjohnson |
 | Dan Middleton | dcmiddle | Dan |
