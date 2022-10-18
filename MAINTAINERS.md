@@ -8,9 +8,7 @@
 | Boyd Johnson | boydjohnson |
 | Dan Middleton | dcmiddle |
 | Darian Plumb | dplumb94 |
-| James Mitchell | jsmitchell |
 | Peter Schwarz | peterschwarz |
-| Richard Berg | rberg2 |
 | Ryan Beck-Buysse | rbuysse |
 | Shawn Amundson | vaporos |
 
@@ -18,3 +16,5 @@
 | Name | GitHub |
 | --- | --- |
 | Adam Ludvik | aludvik |
+| James Mitchell | jsmitchell |
+| Richard Berg | rberg2 |
