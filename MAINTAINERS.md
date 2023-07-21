@@ -1,13 +1,10 @@
 ## Maintainers
 
 ### Active Maintainers
-=======
 | Name | GitHub |
 | --- | --- |
 | Andi Gunderson | agunde406 |
-| Boyd Johnson | boydjohnson |
 | Dan Middleton | dcmiddle |
-| Darian Plumb | dplumb94 |
 | James Mitchell | jsmitchell |
 | Peter Schwarz | peterschwarz |
 | Richard Berg | rberg2 |
@@ -18,3 +15,5 @@
 | Name | GitHub |
 | --- | --- |
 | Adam Ludvik | aludvik |
+| Boyd Johnson | boydjohnson |
+| Darian Plumb | dplumb94 |
