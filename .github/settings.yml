@@ -18,6 +18,7 @@ repository:
   description: Contributed software for Hyperledger Sawtooth
   homepage: https://wiki.hyperledger.org/display/sawtooth
   topics: hyperledger, distributed-ledger, sawtooth, sawtooth-lake
+  archived: true
   private: false
   has_issues: true
   has_projects: false
